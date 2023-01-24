@@ -1,7 +1,7 @@
-# Portafolio, gracias al challenge desarrollado por alura LATAM
-# Encriptador y Desencriptador en Javascript
-# Diseño con css Y html
-# Imagenes exportados en figma, modelo de diseño proporcionado
+- `Portafolio, gracias al challenge desarrollado por alura LATAM`
+- `Encriptador y Desencriptador en Javascript`
+- `Diseño con css Y html`
+- `Imagenes exportados en figma, modelo de diseño proporcionado`
 
 ## :hammer:Funcionalidades del proyecto
 - `Funcionalidad 1`: Encripta cadena - 
